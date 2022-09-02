@@ -4,14 +4,15 @@
 I'm researching ethics and transparency for algorithmic platforms like Facebook, Twitter, and TikTok.
 
 Buzzwords and hot topics that overlap with my reserach include:
-* AI Ethics
-* Misinformation
-* Computational journalism
-* Public interest data science
-* Platform governance
-* Algorithm auditing
-* Algorithmic accountability and transparency
-* Algorithmic bias
+* 🤖 AI Ethics
+* ⚠️ Misinformation
+* 📰 Computational journalism
+* 📊 Public interest data science
+* 🏛 Platform governance
+* 🔬 Algorithm auditing
+* 🧾 Dataset auditing
+* 🔎 Algorithmic transparency
+* ⚖️ Algorithmic bias
 
 <!--
 **jackbandy/jackbandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
