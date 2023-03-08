@@ -14,6 +14,8 @@ Buzzwords and hot topics that overlap with my reserach include:
 * 🔎 Algorithmic transparency
 * ⚖️ Algorithmic bias
 
+To stay in touch, you can follow me on <a rel="me" href="https://hci.social/@jackbandy">Mastodon</a> and/or [Twitter](https://twitter.com/jackbandy).
+
 <!--
 **jackbandy/jackbandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
