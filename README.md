@@ -1,9 +1,9 @@
 # 👋 🙂 Hello there!
 <img src="https://user-images.githubusercontent.com/576907/188191438-0aa3bb86-ef94-4367-a924-f97f05f120c0.jpeg" alt="drawing" width="250"/>
 
-I'm researching ethics and transparency for algorithmic platforms like Facebook, Twitter, and TikTok.
+I'm an assistant professor of Computer Science at <a href="https://www.transy.edu/academics/program/computer-science/">Transylvania University</a> in Lexington, Kentucky.
 
-Buzzwords and hot topics that overlap with my reserach include:
+I also do research in ethics and transparency for algorithmic platforms like Facebook, Twitter, and TikTok. Buzzwords and hot topics that overlap with my reserach include:
 * 🤖 AI Ethics
 * ⚠️ Misinformation
 * 📰 Computational journalism
