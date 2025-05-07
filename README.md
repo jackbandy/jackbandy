@@ -24,7 +24,7 @@ I do research in ethics and transparency for algorithmic platforms like Facebook
 * 🔒 Privacy-Preserving Machine Learning
 * 🔒 AI Alignment & Safety Engineering
 
-To stay in touch, you can connect with me on <a rel="me" href="[https://hci.social/@jackbandy](https://www.linkedin.com/in/jackbandy/)">LinkedIn</a> and/or [BlueSky]([https://twitter.com/jackbandy](https://bsky.app/profile/jackbandy.com)).
+To stay in touch, you can connect with me on <a href="[https://hci.social/@jackbandy](https://www.linkedin.com/in/jackbandy/)">LinkedIn</a> and/or <a href="https://twitter.com/jackbandy](https://bsky.app/profile/jackbandy.com">BlueSky</a>.
 
 <!--
 **jackbandy/jackbandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
